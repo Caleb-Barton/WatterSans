@@ -1,10 +1,12 @@
-!\[This image demonstrates what the font looks like](https://github.com/Caleb-Barton/WatterSans/blob/main/images/img\_1.png?raw=true)
+# WatterSans
+
+![This image demonstrates what the font looks like](https://github.com/Caleb-Barton/WatterSans/blob/main/images/img_1.png?raw=true)
 
 ## Get the font
 
 1. Download the `WatterSans_Regular.otf` file. (Select the file, and then click the download button on the new page)
 
-- !\[This image demonstrates where the download button is on GitHub.com](https://github.com/Caleb-Barton/WatterSans/blob/main/images/img\_3.png?raw=true)
+- ![This image demonstrates where the download button is on GitHub.com](https://github.com/Caleb-Barton/WatterSans/blob/main/images/img_3.png?raw=true)
 
 2. Install
 
@@ -27,7 +29,7 @@ I built this font with Font Forge, following [this tutorial](https://www.youtube
 If anyone is skilled enough to improve this font, be my guest. That's why I included the `WatterSans.sfd`. Here are some of its failures as I see it:
 
 - I added ligatures for common double letters (`oo`, `tt`, etc) so that it would look more handwritten. But for some reason, they don't seem to work outside of Font Forge.
-- !\[This image demonstrates how the ligatures are meant to look](https://github.com/Caleb-Barton/WatterSans/blob/main/images/img\_2.png?raw=true)
+  - ![This image demonstrates how the ligatures are meant to look](https://github.com/Caleb-Barton/WatterSans/blob/main/images/img_2.png?raw=true)
 - There are also a bunch of errors that it says I should fix that I don't understand.
   - Non-integral coordinates
   - Self intersecting
