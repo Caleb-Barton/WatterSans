@@ -12,11 +12,11 @@
 
    > ### On windows
    >
-   > Right click > `Install`
+   > Right click file > `Install`
 
    > ### On Mac
    >
-   > Double Click > `Install Font`
+   > Double Click file > `Install Font`
 
 ## About this font
 
@@ -37,3 +37,7 @@ If anyone is skilled enough to improve this font, be my guest. That's why I incl
   - Private dictionary missing blueValues entry
 
 I don't want to post this font to a font sharing website until I have resolved some of these errors.
+
+## License
+
+This font is released under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute it.
