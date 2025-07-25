@@ -4,7 +4,7 @@ I wanted there to be a better Calvin and Hobbes font, so I started making one la
 
 ![alt text](https://github.com/Caleb-Barton/WatterSans/blob/main/images/img_1.png?raw=true)
 
-I built this font with Font Forge, following \[this tutorial](https://www.youtube.com/watch?v=5O4bIAzbebI) from this incredibly helpful 12 year old. I highly recommend it. If you just want to download the font for your use, you just need the `WatterSans\_Regular.otf`. Google how to install it for your operating system.
+I built this font with Font Forge, following [this tutorial](https://www.youtube.com/watch?v=5O4bIAzbebI) from this incredibly helpful 12 year old. I highly recommend it. If you just want to download the font for your use, you just need the `WatterSans\_Regular.otf`. Google how to install it for your operating system.
 
 ...But if anyone knows more about fonts, feel free to improve the `WatterSans.sfd` file. Here is what it seems to need:
 
